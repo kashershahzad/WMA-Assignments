@@ -1,7 +1,7 @@
 var firstPlayer;
 var secondPlayer;
-userInput = prompt("Input for first player")
-userInput = prompt("Input for Second Player")
+firstPlayer = prompt("Input for first player")
+secondPlayer = prompt("Input for Second Player")
 
 {
     if (firstPlayer === "rock" && secondPlayer === "scissors") {
