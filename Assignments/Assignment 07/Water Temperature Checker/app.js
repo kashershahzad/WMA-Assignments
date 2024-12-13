@@ -18,5 +18,3 @@ userInput =+ prompt("Input Temperature")
         console.log("Invalid Temperature")
     }
 }
-
-console.log("helo")
