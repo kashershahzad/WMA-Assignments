@@ -9,6 +9,7 @@ while (i < 10) {
 
 
 // Do while Loop
+// It always  runs atleast 1 time then check the condition
 
 let a = 0;
 do {
