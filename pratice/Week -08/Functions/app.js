@@ -22,3 +22,17 @@
 
 // USER-DEFINE FUNCTIONS WITH PARAMETERS
 
+
+// function decleration Parameters 
+function sum(num1, num2) {   
+    let result = num1 + num2;
+    console.log(result)
+}
+
+// function call Arguments
+sum(3,4);
+
+sum (10,30);
+
+// It acts as concatination
+sum("Kasher" , "Shahzad")
