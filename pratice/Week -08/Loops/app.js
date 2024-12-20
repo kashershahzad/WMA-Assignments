@@ -33,3 +33,19 @@
 
 // console.log(sum);
 
+// Write a program in which use add amount and we show curreny note which equals to that amount
+
+let ten = 10;
+let twenty = 20;
+let fifty = 50;
+let hundred = 100;
+let fiveHundred = 500;
+let thousand = 1000;
+let fiveThousand = 5000;
+
+let userAmount = + prompt("Enter Your Amount")
+
+for (let i = 0; i <= userAmount; i++) {
+
+
+}
