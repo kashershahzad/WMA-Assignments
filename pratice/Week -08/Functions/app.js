@@ -34,5 +34,5 @@ sum(3,4);
 
 sum (10,30);
 
-// It acts as concatinatio
+// It acts as concatination
 sum("Kasher" , "Shahzad")
